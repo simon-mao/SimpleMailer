@@ -12,9 +12,7 @@
     "version": "1.0.0",
     "minimum-stability": "dev",
     "require": {
-        "phpmailer/phpmailer": "^6.1",
-        "hassankhan/config": "^2.1",
-        "symfony/yaml": "^5.1"
+        "phpmailer/phpmailer": "^6.1"
     },
     "autoload": {
         "psr-4": {
