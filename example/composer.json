@@ -1,0 +1,16 @@
+{
+    "name": "simonmao/simple-mailer-example",
+    "authors": [
+        {
+            "name": "Simon Mao",
+            "email": "simon.mao.xw@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "hassankhan/config": "^2.1",
+        "symfony/yaml": "^5.1",
+        "simonmao/simple-mailer": "dev-develop"
+    }
+}

@@ -1,0 +1,9 @@
+email:
+  debug: true
+  host: smtp.mail.me.com
+  port: 587
+  username: yourname@domain
+  password: password
+  encryption: tls # tls/ssl
+  fromEmail: yourname@domain
+  fromName: "Simon's mailman"
