@@ -1,5 +1,11 @@
 # Simple Mailer
 
+## Usage
+
+```shell script
+composer require simonmao/simple-mailer
+```
+
 ## Example
 
 **Mail Config**
