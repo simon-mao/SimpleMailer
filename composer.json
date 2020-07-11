@@ -1,6 +1,6 @@
 {
     "name": "simonmao/simple-mailer",
-    "description": "",
+    "description": "A simple mail client based on the phpmailer package.",
     "type": "library",
     "authors": [
         {
@@ -8,6 +8,8 @@
             "email": "simon.mao.xw@gmail.com"
         }
     ],
+    "license": "MIT",
+    "version": "1.0.0",
     "minimum-stability": "stable",
     "require": {
         "phpmailer/phpmailer": "^6.1",
