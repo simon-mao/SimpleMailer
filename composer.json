@@ -10,7 +10,7 @@
     ],
     "license": "MIT",
     "version": "1.0.0",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "phpmailer/phpmailer": "^6.1",
         "hassankhan/config": "^2.1",
