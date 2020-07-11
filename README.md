@@ -58,7 +58,3 @@ var_dump($bool);
 ## Dependents
 
 1. `phpmailer/phpmailer`
-
-2. `hassankhan/config`
-
-3. `symfony/yaml`
