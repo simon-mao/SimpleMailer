@@ -1,0 +1,22 @@
+{
+    "name": "simonmao/simple-mailer",
+    "description": "",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Simon Mao",
+            "email": "simon.mao.xw@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "hassankhan/config": "^2.1",
+        "symfony/yaml": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "SimpleMailer\\": "src/"
+        }
+    }
+}
